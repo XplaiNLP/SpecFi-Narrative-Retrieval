@@ -1,0 +1,8 @@
+openai
+pandas 
+numpy 
+tqdm 
+openai 
+sentence-transformers 
+scikit-learn 
+NodeRAG
