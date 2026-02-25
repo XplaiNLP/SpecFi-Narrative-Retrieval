@@ -3,7 +3,7 @@
 
 ## About
 
-This repo documents our evaluation scripts for the paper **Exploring Contingency: Retrieving Disinformation Narratives with Speculative Fiction Generation**. Please note: This repository accompanies the paper and documents the approach taken for reference. It is not a procuction-ready implementation and may require modifications to execute.
+This repo documents our evaluation scripts for the paper **Retrieving Climate Change Disinformation by Narrative**. Please note: This repository accompanies the paper and documents the approach taken for reference. It is not a procuction-ready implementation and may require modifications to execute.
 
 ## Overview over evaluation scripts
 
